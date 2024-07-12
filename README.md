@@ -25,3 +25,5 @@ By equipping myself with skills in data modelling, machine learning, and data vi
 
 #### Victoria University of Wellington - Bachelor of Arts, 2012-2014 | WELLINGTON, NEW ZEALAND
 My academic background in Linguistics and Modern Language Studies has provided me with a solid foundation in data analysis, research, critical thinking and communication.
+
+[>>> Back to homepage](https://liam-clowes.github.io/portfolio/)
