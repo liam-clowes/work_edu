@@ -1,12 +1,12 @@
 # 👨‍💻 WORK EXPERIENCE
 
-####  MAKING AN IMPACT at SumUp Limited, 2024  -  Current | BERLIN, GERMANY
+#### 📈 MAKING AN IMPACT at SumUp Limited, 2024  -  Current | BERLIN, GERMANY
 As a Senior Localisation Manager, I lead localisation efforts across 40+ markets, driving initiatives that enhance product quality and global user experience. By fostering strong cross-departmental collaboration, I ensure seamless communication and alignment between teams to deliver
 high-quality localisation at scale.
 - Assembled team of freelance language leads to maximise the value of localisation in core markets.
 - Implemented workflow automations and integrated AI solutions, reducing turnaround times by up to 70%.
 
-#### 📈 DRIVING GROWTH at GoStudent GmbH, 2021  -  2023 | BERLIN, GERMANY
+#### 🚀 DRIVING GROWTH at GoStudent GmbH, 2021  -  2023 | BERLIN, GERMANY
 As the Localisation Lead at GoStudent, I led data-driven initiatives to enhance user experience in 20+ markets and secure ongoing buy-in of the Product and Marketing roadmaps. By introducing relevant tooling, agile workflows and strategic leadership, I optimised processes and unified cross-departmental efforts, resulting in increased efficiency and an improvement of ROI.
 - Developed comprehensive budget-forecasting framework and customised PO system to align with company OKRs and performance metrics, consequently increasing localisation buy-in.
 - Implemented essential tools and workflows, expanded the team and fostered vendor relations during a phase of hyper-growth for the company.
